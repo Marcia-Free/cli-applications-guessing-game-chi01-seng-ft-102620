@@ -13,7 +13,5 @@ def run_guessing_game
   else
     puts "Sorry! The computer guessed #{comp_num}."
   end
-  
 
-  
 end
